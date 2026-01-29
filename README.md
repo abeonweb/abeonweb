@@ -1,5 +1,11 @@
 # 👋 Hi, I’m Abiodun (Abe)
 
+![Frontend Developer](https://img.shields.io/badge/Role-Frontend%20Engineer-blue)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+
 Frontend Software Engineer with **5+ years of self-taught experience**, focused on building **reliable, scalable, and user-centric web applications**.
 
 I specialize in **React and Next.js**, with a strong emphasis on clean architecture, maintainable code, and real-world usability. I enjoy turning complex requirements into simple, intuitive interfaces that actually get used.
@@ -19,18 +25,20 @@ I specialize in **React and Next.js**, with a strong emphasis on clean architect
 ## 🧰 Tech Stack
 
 ### Frontend
-- JavaScript (ES6+), TypeScript  
-- React, Next.js  
-- HTML5, CSS3, Tailwind CSS  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Backend / Full-Stack
-- Node.js  
-- REST APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-lightgrey)
 
 ### Tools & Workflow
-- Git & GitHub  
-- Vercel  
-- Modular architecture & component-driven development  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 
 ---
 
@@ -58,9 +66,11 @@ Here are a few projects that showcase how I think and build:
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: https://abecodes.com  
-- 💼 LinkedIn: _(add your LinkedIn link here)_  
-- 📧 Email: _(optional)_  
+![Portfolio](https://img.shields.io/badge/Portfolio-abecodes.com-black)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)
+
+- 🌐 https://abecodes.com  
+- 💼 _(Add LinkedIn URL here)_  
 
 ---
 
