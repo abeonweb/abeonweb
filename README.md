@@ -70,7 +70,7 @@ Here are a few projects that showcase how I think and build:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)
 
 - 🌐 https://abecodes.com  
-- 💼 _(Add LinkedIn URL here)_  
+- 💼 https://www.linkedin.com/in/abeonweb/
 
 ---
 
