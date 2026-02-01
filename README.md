@@ -46,6 +46,7 @@ I specialize in **React and Next.js**, with a strong emphasis on clean architect
 
 Here are a few projects that showcase how I think and build:
 
+- **Trace** – A tool for keeping track of issues and their solutions accross projects
 - **Invoice Creator** – A practical tool for generating invoices  
 - **Unit Converter** – Clean UI with clear logic separation  
 - **Passenger Counter** – Simple app focused on state management  
