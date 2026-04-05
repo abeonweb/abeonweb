@@ -17,7 +17,7 @@ I specialize in **React and Next.js**, with a strong emphasis on clean architect
 - Build **production-ready frontend systems**
 - Develop **full-stack features** using Next.js
 - Design **reusable UI components**
-- Improve performance, readability, and developer experience
+- Improve performance, readability, and user experience
 - Translate business needs into technical solutions
 
 ---
